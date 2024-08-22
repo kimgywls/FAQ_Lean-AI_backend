@@ -9,3 +9,6 @@ requests==2.32.3
 sqlparse==0.5.1
 tzdata==2024.1
 urllib3==2.2.2
+google-cloud-dialogflow==2.31.0
+rest_framework_simplejwt==0.0.2
+pip install google-api-python-client==2.142.0
